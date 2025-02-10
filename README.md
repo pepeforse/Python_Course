@@ -1,2 +1,2 @@
 # Python_Course
-# Homeworks for Ruslan Python course
+ Homeworks for Ruslan Python course
