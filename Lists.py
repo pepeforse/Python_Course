@@ -27,6 +27,7 @@ lst_0_max_value_idx = lst_0.index(max(lst_0))
 lst_2 = []
 for number in range(len(lst_0) - 1, -1, -1):
     lst_2.append(lst_0[number])
+print(lst_2)
 """
 Генерация списка квадратов
 Задача: По данному натуральному числу n создайте список, содержащий квадраты чисел от 1 до n.
